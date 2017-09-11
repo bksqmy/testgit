@@ -13,11 +13,56 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConvertUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConvertUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testgit/src/respect/ConvertUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testgit/src/respect/DateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4144">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testgit/src/respect/StringUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5884">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArgumentException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testgit/src/respect/ArgumentException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="56" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testgit/src/respect/BusinessException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -35,9 +80,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testgit/src/respect/ArgumentException.java" />
+        <option value="$PROJECT_DIR$/testgit/src/respect/BusinessException.java" />
+        <option value="$PROJECT_DIR$/testgit/src/respect/StringUtil.java" />
+        <option value="$PROJECT_DIR$/testgit/src/respect/DateUtil.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -51,6 +113,9 @@
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -139,6 +204,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testgit/jar/slf4j-log4j12-1.6.1.jar!/" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="respect" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -548,7 +618,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505098424661</updated>
-      <workItem from="1505098428887" duration="326000" />
+      <workItem from="1505098428887" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="111qqqq">
       <created>1505098600304</created>
@@ -557,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505098600304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加相关公共类">
+      <created>1505099217732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505099217732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326000" />
+    <option name="totallyTimeSpent" value="813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -609,7 +686,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111qqqq" />
-    <option name="LAST_COMMIT_MESSAGE" value="111qqqq" />
+    <MESSAGE value="添加相关公共类" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加相关公共类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -633,6 +711,43 @@
         <state relative-caret-position="330">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testgit/src/respect/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testgit/src/respect/ArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="56" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testgit/src/respect/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5884">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testgit/src/respect/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4144">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
