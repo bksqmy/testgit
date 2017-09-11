@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testgit/jar/log4j-over-slf4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testgit/jar/slf4j-log4j12-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
